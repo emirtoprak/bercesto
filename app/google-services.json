@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590114565719",
+    "project_id": "bercesto-850a8",
+    "storage_bucket": "bercesto-850a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590114565719:android:4b808a2f768eebb37f7d12",
+        "android_client_info": {
+          "package_name": "com.example.bercesto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590114565719-78rs4n8ngt1ss5fkf0cd7hpjc8j4p9id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC12wIsE8aOyogZL2hdNFTKfXKr0RyvLVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590114565719-78rs4n8ngt1ss5fkf0cd7hpjc8j4p9id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
